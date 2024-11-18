@@ -45,8 +45,8 @@ Feel free to check out my projects or reach out if you'd like to **collaborate**
 ## 📊 **GitHub Stats**
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=violetto-rose&show_icons=true&locale=en&layout=donut&theme=midnight-purple" alt="violetto-rose" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=violetto-rose&show_icons=true&locale=en&theme=midnight-purple" alt="violetto-rose" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=violetto-rose&show_icons=true&locale=en&layout=donut&theme=midnight-purple" alt="violetto-rose" height="210" />
+  <img src="https://github-readme-stats.vercel.app/api?username=violetto-rose&show_icons=true&locale=en&theme=midnight-purple" alt="violetto-rose" height="210" />
 </div>
 
 ---
