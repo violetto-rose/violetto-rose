@@ -44,9 +44,10 @@ Feel free to check out my projects or reach out if you'd like to **collaborate**
 
 ## 📊 **GitHub Stats**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=violetto-rose&show_icons=true&locale=en&layout=compact&theme=dark" alt="violetto-rose" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=violetto-rose&show_icons=true&locale=en&theme=dark" alt="violetto-rose" /></p>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=violetto-rose&show_icons=true&locale=en&layout=donut&theme=midnight-purple" alt="violetto-rose" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=violetto-rose&show_icons=true&locale=en&theme=midnight-purple" alt="violetto-rose" height="250" />
+</div>
 
 ---
 
@@ -54,8 +55,9 @@ Feel free to check out my projects or reach out if you'd like to **collaborate**
 
 | **Project**                | **Description**                                                                                              | **Role**               |
 |----------------------------|--------------------------------------------------------------------------------------------------------------|------------------------|
+| 🎨 **BhaavChitra**          | A **sentiment analysis tool** that integrates BERT and VADER models to analyze the sentiment of text.         | *(Full-Stack Developer)* |
 | 🍽️ **Swaad Sanchalan**      | A **comprehensive restaurant management system** for handling menu management, reservations, billing, and sales reporting. | *(Full-Stack Developer)* |
-| 🎉 **OBE Tracker**          | A system to facilitate **Outcome-Based Education** by tracking course and program outcomes.                 | *(Full-Stack Developer)* |
+| 📖 **OBE Tracker**          | A system to facilitate **Outcome-Based Education** by tracking course and program outcomes.                 | *(Full-Stack Developer)* |
 
 ---
 
