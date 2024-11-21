@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Manju Madhav
 
-I'm a **BE student** specializing in **Computer Science and Design**, with a passion for **web and app development**. I enjoy creating user-friendly interfaces and working on projects that seamlessly blend **creativity** with **functionality**. Currently, I’m focused on developing **dynamic websites** and **applications**.
+I'm a **BE student** specializing in **Computer Science and Design**, with a passion for **web development**. I enjoy creating user-friendly interfaces and working on projects that seamlessly blend **creativity** with **functionality**. Currently, I’m focused on developing **dynamic websites** and **applications**.
 
 Feel free to check out my projects or reach out if you'd like to **collaborate**!
 
