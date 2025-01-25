@@ -10,7 +10,7 @@ Feel free to check out my projects or reach out if you'd like to **collaborate**
 
 - **📧 If you'd like to connect, feel free to reach out via [email](mailto:manjumadhav.va@gmail.com).**  
 - **🌐 To know more about my projects, visit my [portfolio](https://bit.ly/manjumadhav-xo).** 
-- **📝 Check out my [resume](https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/50665005/MjU2NjMwMDU=.pdf) for more details on my experience.**
+- **📝 Check out my [resume](img/Resume (teal).pdf) for more details on my experience.**
 
 ## 🌟 Social Media
 
