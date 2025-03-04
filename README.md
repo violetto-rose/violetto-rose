@@ -32,13 +32,13 @@ Feel free to check out my projects or reach out if you'd like to **collaborate**
 
 ## 🛠️ **Tools & Technologies**
 
-| **Category**               | **Technologies**                                                                                                                                         |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages**   | <img src="img/c.svg" height="50"> <img src="img/php.svg" height="50"> <img src="img/java.svg" height="50">                                               |
-| **Scripting**               | <img src="img/html.svg" height="50"> <img src="img/css.svg" height="50"> <img src="img/javascript.svg" height="50">                                      |
-| **Frameworks**              | <img src="img/bootstrap.svg" height="50">                                                                                                               |
-| **Database**                | <img src="img/mysql.svg" height="50">                                                                                                                   |
-| **Others**                  | <img src="img/git.svg" height="50"> <img src="img/figma.svg" height="50">                                                                                |
+| **Category**                | **Technologies**                                                                                                                                        |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages**   | <img src="img/php.svg" height="50"> <img src="img/java.svg" height="50">                                                                                |
+| **Scripting**               | <img src="img/html.svg" height="50"> <img src="img/css.svg" height="50"> <img src="img/javascript.svg" height="50">                                     |
+| **Frameworks**              | <img src="img/bootstrap.svg" height="50"> <img src="img/tailwind.svg" height="50">                                                                      |
+| **Database**                | <img src="img/mysql.svg" height="50"> <img src="img/mongodb" height="50">                                                                               |
+| **Others**                  | <img src="img/git.svg" height="50"> <img src="img/figma.svg" height="50">                                                                               |
 
 ---
 
@@ -53,11 +53,11 @@ Feel free to check out my projects or reach out if you'd like to **collaborate**
 
 ## 🚀 **Recent Projects**
 
-| **Project**                | **Description**                                                                                              | **Role**               |
-|----------------------------|--------------------------------------------------------------------------------------------------------------|------------------------|
-| 🎨 **BhaavChitra**          | A **sentiment analysis tool** that integrates BERT and VADER models to analyze the sentiment of text.         | *(Full-Stack Developer)* |
+| **Project**                 | **Description**                                                                                                            | **Role**                 |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| 🎨 **BhaavChitra**          | A **sentiment analysis tool** that integrates BERT and VADER models to analyze the sentiment of text.                      | *(Full-Stack Developer)* |
 | 🍽️ **Swaad Sanchalan**      | A **comprehensive restaurant management system** for handling menu management, reservations, billing, and sales reporting. | *(Full-Stack Developer)* |
-| 📖 **OBE Tracker**          | A system to facilitate **Outcome-Based Education** by tracking course and program outcomes.                 | *(Full-Stack Developer)* |
+| 📖 **OBE Tracker**          | A system to facilitate **Outcome-Based Education** by tracking course and program outcomes.                                | *(Full-Stack Developer)* |
 
 ---
 
