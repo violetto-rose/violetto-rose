@@ -47,7 +47,7 @@
     <td colspan="2" align="center">
       <b>Tools & Technologies</b><br/>
       <a href="https://skillicons.dev">
-        <img draggable="false" src="https://skillicons.dev/icons?i=git,figma" alt="Tools & Technologies" height="50">
+        <img draggable="false" src="https://skillicons.dev/icons?i=git,figma,vercel" alt="Tools & Technologies" height="50">
       </a>
     </td>
   </tr>
