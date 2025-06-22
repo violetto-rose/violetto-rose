@@ -68,7 +68,7 @@
   </div>
 
   <div class="project">
-    <h3><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/violetto-rose/violetto-rose/refs/heads/main/resources/paperpeak.png" alt="Paper Peak" width="25" height="25" /></span> PaperPeak | Academic Writing Platform</h3>
+    <h3><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/violetto-rose/violetto-rose/refs/heads/main/resources/paperpeak.png" alt="Paper Peak" height="25" /></span> PaperPeak | Academic Writing Platform</h3>
     <ul>
       <li><strong>Tech Stack</strong>: Next.js, TypeScript, Tailwind CSS, shadcn/ui, Firebase, AWS S3, Stripe API, Vercel</li>
       <li><strong>Description</strong>: A sophisticated middleware platform that bridges the gap between students seeking academic assistance and professional writers. Built with enterprise-grade architecture, PaperPeak offers secure transactions, real-time collaboration, and comprehensive project management.</li>
