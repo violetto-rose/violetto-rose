@@ -1,6 +1,6 @@
-<h1><span class="emoji header-1"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="50" height="50" /></span>&nbsp;Manju Madhav</h1>
+<h1><span class="emoji"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="50" height="50" /></span>&nbsp;Manju Madhav</h1>
 
-<h2><span class="emoji header-2"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /></span>&nbsp;About Me</h2>
+<h2><span class="emoji"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /></span>&nbsp;About Me</h2>
 
 <div class="about-content">
   <p>Hey! I'm a <strong>student from Karnataka, India</strong>, studying <strong>Computer Science and Design</strong>.</p>
@@ -12,7 +12,7 @@
 
 <hr>
 
-<h2><span class="emoji header-2"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /></span>&nbsp;Technical Skills</h2>
+<h2><span class="emoji"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /></span>&nbsp;Technical Skills</h2>
 
 <table class="tech-skills">
   <tr>
@@ -55,11 +55,11 @@
 
 <hr>
 
-<h2><span class="emoji header-2"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="25" height="25" /></span>&nbsp;Featured Projects</h2>
+<h2><span class="emoji"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="25" height="25" /></span>&nbsp;Featured Projects</h2>
 
 <div class="projects">
   <div class="project">
-    <h3><span class="emoji header-3"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Neutral%20Face.png" alt="Neutral Face" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Frowning%20Face.png" alt="Frowning Face" width="25" height="25" /></span>&nbsp;BhaavChitra | Sentiment Analysis Tool</h3>
+    <h3><span class="emoji"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Neutral%20Face.png" alt="Neutral Face" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Frowning%20Face.png" alt="Frowning Face" width="25" height="25" /></span>&nbsp;BhaavChitra | Sentiment Analysis Tool</h3>
     <ul>
       <li><strong>Tech Stack</strong>: BERT, VADER, Python, Flask, HTML/CSS, JavaScript</li>
       <li><strong>Description</strong>: An advanced sentiment analysis application that combines BERT and VADER models to provide nuanced text sentiment analysis with visualized results.</li>
@@ -69,7 +69,7 @@
   </div>
 
   <div class="project">
-    <h3><span class="emoji header-3"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Fork%20and%20Knife%20with%20Plate.png" alt="Fork and Knife with Plate" width="25" height="25" /></span>&nbsp;Swaad Sanchalan | Restaurant Management System</h3>
+    <h3><span class="emoji"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Fork%20and%20Knife%20with%20Plate.png" alt="Fork and Knife with Plate" width="25" height="25" /></span>&nbsp;Swaad Sanchalan | Restaurant Management System</h3>
     <ul>
       <li><strong>Tech Stack</strong>: PHP, MySQL, JavaScript, Bootstrap</li>
       <li><strong>Description</strong>: A comprehensive system for restaurant operations, including menu management, reservations, billing, and analytics dashboards.</li>
@@ -79,7 +79,7 @@
   </div>
 
   <div class="project">
-    <h3><span class="emoji header-3"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" /></span>&nbsp;OBE Tracker | Educational Outcome Management</h3>
+    <h3><span class="emoji"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" /></span>&nbsp;OBE Tracker | Educational Outcome Management</h3>
     <ul>
       <li><strong>Tech Stack</strong>: JavaScript, PHP, MySQL, Tailwind CSS</li>
       <li><strong>Description</strong>: A platform designed to facilitate Outcome-Based Education by tracking course metrics, student progress, and program outcomes.</li>
@@ -91,7 +91,7 @@
 
 <hr>
 
-<h2><span class="emoji header-2"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /></span>&nbsp;GitHub Stats</h2>
+<h2><span class="emoji"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /></span>&nbsp;GitHub Stats</h2>
 
 <div class="github-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=violetto-rose&show_icons=true&locale=en&layout=donut&theme=midnight-purple" alt="Most Used Languages" height="200" />
@@ -100,7 +100,7 @@
 
 <hr>
 
-<h2><span class="emoji header-2"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /></span>&nbsp;Connect With Me</h2>
+<h2><span class="emoji"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /></span>&nbsp;Connect With Me</h2>
 
 <div class="socials">
   <a href="https://linkedin.com/in/manjumadhav-va"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -112,7 +112,7 @@
 </div>
 
 <div class="contact">
-  <h3><span class="emoji header-3"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Lowered%20Flag.png" alt="Closed Mailbox with Lowered Flag" width="25" height="25" /></span>&nbsp;Get in Touch</h3>
+  <h3><span class="emoji"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Lowered%20Flag.png" alt="Closed Mailbox with Lowered Flag" width="25" height="25" /></span>&nbsp;Get in Touch</h3>
   <ul>
     <li><strong>Email</strong>: <a href="mailto:manjumadhav.va@gmail.com">manjumadhav.va@gmail.com</a></li>
     <li><strong>Portfolio</strong>: <a href="https://bit.ly/manjumadhav-xo">View Portfolio</a></li>
