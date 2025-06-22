@@ -17,13 +17,13 @@
 <table class="tech-skills">
   <tr>
     <td align="center" width="50%">
-      <b>Programming Languages</b><br>
+      <b>Programming Languages</b>
       <a href="https://skillicons.dev">
         <img draggable="false" src="https://skillicons.dev/icons?i=js,java,py" alt="Programming Languages" height="50">
       </a>
     </td>
     <td align="center" width="50%">
-      <b>Frontend Development</b><br>
+      <b>Frontend Development</b>
       <a href="https://skillicons.dev">
         <img draggable="false" src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&perline=3" alt="Frontend Development" height="110">
       </a>
@@ -31,13 +31,13 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <b>Backend Development</b><br>
+      <b>Backend Development</b>
       <a href="https://skillicons.dev">
         <img draggable="false" src="https://skillicons.dev/icons?i=php,flask" alt="Backend Development" height="50">
       </a>
     </td>
     <td align="center" width="50%">
-      <b>Database Management</b><br>
+      <b>Database Management</b>
       <a href="https://skillicons.dev">
         <img draggable="false" src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Management" height="50">
       </a>
@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <b>Tools & Technologies</b><br>
+      <b>Tools & Technologies</b>
       <a href="https://skillicons.dev">
         <img draggable="false" src="https://skillicons.dev/icons?i=git,figma" alt="Tools & Technologies" height="50">
       </a>
