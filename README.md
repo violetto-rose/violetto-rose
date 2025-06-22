@@ -59,7 +59,7 @@
 
 <div class="projects">
   <div class="project">
-    <h3><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/violetto-rose/violetto-rose/refs/heads/main/resources/uiux.png" alt="UIUX" width="25" height="25" /></span>&nbsp;UI/UX Design Tutorials | Educational Resource Platform</h3>
+    <h3><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/violetto-rose/violetto-rose/refs/heads/main/resources/uiux.png" alt="UIUX" height="25" /></span>&nbsp;UI/UX Design Tutorials | Educational Resource Platform</h3>
     <ul>
       <li><strong>Tech Stack</strong>: HTML5, CSS3, JavaScript, Markdown, PWA, GitHub Pages</li>
       <li><strong>Description</strong>: A comprehensive collection of interactive tutorials covering various aspects of UI/UX design. This educational platform serves as a practical resource for aspiring designers and developers, providing step-by-step guidance and real-world examples.</li>
@@ -86,7 +86,7 @@
   </div>
 
   <div class="project">
-    <h3><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/violetto-rose/violetto-rose/refs/heads/main/resources/swaadsanchalan.png" alt="Swaad Sanchalan" width="25" height="25" /></span>&nbsp;Swaad Sanchalan | Restaurant Management System</h3>
+    <h3><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/violetto-rose/violetto-rose/refs/heads/main/resources/swaadsanchalan.png" alt="Swaad Sanchalan" height="25" /></span>&nbsp;Swaad Sanchalan | Restaurant Management System</h3>
     <ul>
       <li><strong>Tech Stack</strong>: PHP, MySQL, JavaScript, Bootstrap</li>
       <li><strong>Description</strong>: A comprehensive system for restaurant operations, including menu management, reservations, billing, and analytics dashboards.</li>
