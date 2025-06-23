@@ -79,7 +79,7 @@
   <div class="project">
     <h3><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="25" height="25" /><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Neutral%20Face.png" alt="Neutral Face" width="25" height="25" /><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Frowning%20Face.png" alt="Frowning Face" width="25" height="25" /></span> BhaavChitra | Sentiment Analysis Tool</h3>
     <ul>
-      <li><strong>Tech Stack</strong>: BERT, VADER, Python, Flask, HTML/CSS, JavaScript</li>
+      <li><strong>Tech Stack</strong>: Python (Flask), JavaScript, HTML, CSS, BERT, VADER</li>
       <li><strong>Description</strong>: An advanced sentiment analysis application that combines BERT and VADER models to provide nuanced text sentiment analysis with visualized results.</li>
       <li><strong><a href="https://github.com/violetto-rose/BhaavChitra">View Project →</a></strong></li>
     </ul>
@@ -97,9 +97,9 @@
   <div class="project">
     <h3><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" /></span> OBE Tracker | Educational Outcome Management</h3>
     <ul>
-      <li><strong>Tech Stack</strong>: JavaScript, PHP, MySQL, Tailwind CSS</li>
+      <li><strong>Tech Stack</strong>: PHP, MySQL, JavaScript, HTML, CSS</li>
       <li><strong>Description</strong>: A platform designed to facilitate Outcome-Based Education by tracking course metrics, student progress, and program outcomes.</li>
-      <li><strong><a href="https://github.com/violetto-rose/OBETracker">View Project →</a></strong></li>
+      <li><strong><a href="https://github.com/violetto-rose/OBE-DBMS-Project">View Project →</a></strong></li>
     </ul>
   </div>
 </div>
