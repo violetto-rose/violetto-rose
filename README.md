@@ -39,7 +39,7 @@
     <td align="center" width="50%">
       <b>Database Management</b><br/>
       <a href="https://skillicons.dev">
-        <img draggable="false" src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Management" height="50">
+        <img draggable="false" src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" alt="Database Management" height="50">
       </a>
     </td>
   </tr>
@@ -47,7 +47,7 @@
     <td colspan="2" align="center">
       <b>Tools & Technologies</b><br/>
       <a href="https://skillicons.dev">
-        <img draggable="false" src="https://skillicons.dev/icons?i=git,figma,vercel" alt="Tools & Technologies" height="50">
+        <img draggable="false" src="https://skillicons.dev/icons?i=git,figma,vercel,vite" alt="Tools & Technologies" height="50">
       </a>
     </td>
   </tr>
