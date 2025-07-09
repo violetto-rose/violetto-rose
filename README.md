@@ -6,8 +6,6 @@
   <p>Hey! I'm a <strong>student from Karnataka, India</strong>, studying <strong>Computer Science and Design</strong>.</p>
 
   <p>I love <strong>building cool web apps</strong> that are both <strong>fun to use and functional</strong>. Right now, I'm diving into <strong>web development</strong> with technologies like <strong>React, Next.js, Firebase,</strong> and <strong>PostgreSQL</strong>, while sharpening my skills in <strong>JavaScript</strong> and <strong>Python</strong>.</p>
-
-  <p>I'm all about creating <strong>seamless digital experiences</strong>, whether that's making websites look good or work smarter. I'm passionate about <strong>blending creativity with technology</strong>, and I'm always eager to <strong>learn new skills</strong> and <strong>collaborate on innovative projects</strong>.</p>
 </div>
 
 <hr>
