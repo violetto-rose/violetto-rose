@@ -1,16 +1,15 @@
 <h1><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat with Smiling Eyes" width="50" height="50" /></span> Manju Madhav</h1>
 
-<h2><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /></span> About Me</h2>
+<h2><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /></span> Who am I?</h2>
 
 <div class="about-content">
-  <p>Hey! I'm a <strong>student from Karnataka, India</strong>, studying <strong>Computer Science and Design</strong>.</p>
+  <p>Helloo... I'm a student from Karnataka, India, studying Computer Science and Design.</p>
 
-  <p>I love <strong>building cool web apps</strong> that are both <strong>fun to use and functional</strong>. Right now, I'm diving into <strong>web development</strong> with technologies like <strong>React, Next.js, Firebase,</strong> and <strong>PostgreSQL</strong>, while sharpening my skills in <strong>JavaScript</strong> and <strong>Python</strong>.</p>
-</div>
-
+  <p>I like building cool web apps that are both fun to use and functional. Right now, I'm doing web development with technologies like React, Next.js, Firebase, and PostgreSQL</p>
+  </div>
 <hr>
 
-<h2><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /></span> Technical Skills</h2>
+<h2><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /></span> My Tech Skills</h2>
 
 <table class="tech-skills">
   <tr>
@@ -31,13 +30,13 @@
     <td align="center" width="50%">
       <b>Backend Development</b><br/>
       <a href="https://skillicons.dev">
-        <img draggable="false" src="https://skillicons.dev/icons?i=php,flask" alt="Backend Development" height="50">
+        <img draggable="false" src="https://skillicons.dev/icons?i=nodejs,flask" alt="Backend Development" height="50">
       </a>
     </td>
     <td align="center" width="50%">
       <b>Database Management</b><br/>
       <a href="https://skillicons.dev">
-        <img draggable="false" src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" alt="Database Management" height="50">
+        <img draggable="false" src="https://skillicons.dev/icons?i=firebase,supabase,mysql" alt="Database Management" height="50">
       </a>
     </td>
   </tr>
@@ -53,7 +52,7 @@
 
 <hr>
 
-<h2><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="25" height="25" /></span> Featured Projects</h2>
+<h2><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" alt="Sports Medal" width="25" height="25" /></span> Some Of My Projects</h2>
 
 <div class="projects">
   <div class="project">
@@ -104,7 +103,7 @@
 
 <hr>
 
-<h2><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /></span> GitHub Stats</h2>
+<h2><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /></span> My GitHub Stats</h2>
 
 <div class="github-stats">
   <img draggable="false" src="https://github-readme-stats.vercel.app/api/top-langs?username=violetto-rose&show_icons=true&locale=en&layout=donut&theme=midnight-purple" alt="Most Used Languages" height="200" />
@@ -113,26 +112,23 @@
 
 <hr>
 
-<h2><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /></span> Connect With Me</h2>
+<h2><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /></span> If You Wanna Connect With Me</h2>
 
 <div class="socials">
   <a href="https://linkedin.com/in/manjumadhav-va"><img draggable="false" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/the_violetto"><img draggable="false" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://instagram.com/manjumadhav.va"><img draggable="false" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.hackerrank.com/manjumadhav_va"><img draggable="false" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://auth.geeksforgeeks.org/user/manjumadhav_va/profile"><img draggable="false" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
-  <a href="https://codepen.io/manju-madhav-v-a"><img draggable="false" src="https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"></a>
 </div>
 
 <div class="contact">
   <h3><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Lowered%20Flag.png" alt="Closed Mailbox with Lowered Flag" width="25" height="25" /></span> Get in Touch</h3>
   <ul>
-    <li><strong>Email</strong>: <a href="mailto:manjumadhav.va@gmail.com">manjumadhav.va@gmail.com</a></li>
-    <li><strong>Portfolio</strong>: <a href="https://bit.ly/manjumadhav-xo">View Portfolio</a></li>
-    <li><strong>Resume</strong>: <a href="https://github.com/violetto-rose/violetto-rose/blob/main/resources/Resume.pdf">Download Resume</a></li>
+    <li><a href="mailto:manjumadhav.va@gmail.com">manjumadhav.va@gmail.com</a></li>
+    <li> <a href="https://bit.ly/manjumadhav-xo">My Portfolio</a></li>
+    <li><a href="https://github.com/violetto-rose/violetto-rose/blob/main/resources/Resume.pdf">My Resume</a></li>
   </ul>
 </div>
 
 <hr>
 
-<p class="footer"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> <em>I'm always open to collaboration opportunities and interesting projects. Feel free to reach out!</em></p>
+<p class="footer"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> <em>I'm always open to collaboration opportunities and interesting projects. Feel free to reach out :P</em></p>
