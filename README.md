@@ -108,7 +108,7 @@
 <div class="github-stats">
   <img draggable="false" src="https://github-readme-stats.vercel.app/api/top-langs?username=violetto-rose&show_icons=true&locale=en&layout=donut&theme=midnight-purple" alt="Most Used Languages" height="200" />
   <img draggable="false" src="https://github-readme-stats.vercel.app/api?username=violetto-rose&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" height="200" />
-  <img draggable="false" src="https://github-readme-streak-stats.herokuapp.com?user=violetto-rose&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=1000" alt="GitHub Streak" />
+  <img draggable="false" src="https://github-readme-streak-stats.herokuapp.com?user=violetto-rose&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=1000" alt="GitHub Streak" />
 </div>
 
 <hr>
