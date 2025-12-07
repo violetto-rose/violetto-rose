@@ -106,9 +106,9 @@
 <h2><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /></span> My GitHub Stats</h2>
 
 <div class="github-stats">
-  <img draggable="false" src="https://github-readme-stats.vercel.app/api/top-langs?username=violetto-rose&show_icons=true&locale=en&layout=donut&theme=midnight-purple" alt="Most Used Languages" height="200" />
-  <img draggable="false" src="https://github-readme-stats.vercel.app/api?username=violetto-rose&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats" height="200" />
-  <img draggable="false" src="https://github-readme-streak-stats.herokuapp.com?user=violetto-rose&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=1000" alt="GitHub Streak" />
+  <img draggable="false" src="https://github-readme-stats-ashen-one-20.vercel.app/api/top-langs?username=violetto-rose&show_icons=true&locale=en&layout=donut&theme=catppuccin_mocha&exclude_repo=machine-learning" alt="Most Used Languages" height="200" />
+  <img draggable="false" src="https://github-readme-stats-ashen-one-20.vercel.app/api?username=violetto-rose&show_icons=true&locale=en&theme=catppuccin_mocha" alt="GitHub Stats" height="200" />
+  <img draggable="false" src="https://github-readme-streak-stats.herokuapp.com?user=violetto-rose&theme=catppuccin_mocha&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=810" alt="GitHub Streak" />
 </div>
 
 <hr>
