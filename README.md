@@ -125,7 +125,7 @@
   <h3><span class="emoji"><img draggable="false" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Lowered%20Flag.png" alt="Closed Mailbox with Lowered Flag" width="25" height="25" /></span> Get in Touch</h3>
   <ul>
     <li><a href="mailto:manjumadhav.va@gmail.com">manjumadhav.va@gmail.com</a></li>
-    <li><a href="https://bit.ly/manjumadhav-xo">My Portfolio</a></li>
+    <li><a href="https://manjumadhav.vercel.app">My Portfolio</a></li>
     <li><a href="https://github.com/violetto-rose/violetto-rose/blob/main/resources/Resume.pdf">My Resume</a></li>
   </ul>
 </div>
