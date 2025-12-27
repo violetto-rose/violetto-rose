@@ -108,7 +108,7 @@
 <div class="github-stats">
   <img draggable="false" src="https://github-readme-stats-ashen-one-20.vercel.app/api/top-langs?username=violetto-rose&show_icons=true&locale=en&layout=donut&theme=catppuccin_mocha&exclude_repo=machine-learning" alt="Most Used Languages" height="200" />
   <img draggable="false" src="https://github-readme-stats-ashen-one-20.vercel.app/api?username=violetto-rose&show_icons=true&locale=en&theme=catppuccin_mocha" alt="GitHub Stats" height="200" />
-  <img draggable="false" src="https://github-readme-streak-stats.herokuapp.com?user=violetto-rose&theme=catppuccin_mocha&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=810" alt="GitHub Streak" />
+  <img draggable="false" src="https://github-readme-streak-stats-lime-psi.vercel.app?user=violetto-rose&theme=catppuccin_mocha&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=810" alt="GitHub Streak" />
 </div>
 
 <hr>
@@ -118,7 +118,7 @@
 <div class="socials">
   <a href="https://linkedin.com/in/manjumadhav-va"><img draggable="false" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/the_violetto"><img draggable="false" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://instagram.com/manjumadhav.va"><img draggable="false" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <!-- <a href="https://instagram.com/manjumadhav.va"><img draggable="false" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> -->
 </div>
 
 <div class="contact">
