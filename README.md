@@ -10,13 +10,13 @@ I like building cool web apps that are both fun to use and functional. Right now
 
 ## My Tech Skills
 
-### 🚀 Programming & Frameworks
+### Programming & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nextjs,nodejs,flask&perline=7)](https://skillicons.dev)
 
-### 🎨 Frontend & Design
+### Frontend & Design
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma)](https://skillicons.dev)
 
-### 💾 Databases & Tools
+### Databases & Tools
 [![Backend Skills](https://skillicons.dev/icons?i=firebase,supabase,mysql,git,vercel,vite)](https://skillicons.dev)
 
 ---
