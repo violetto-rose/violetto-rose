@@ -8,16 +8,31 @@ I like building cool web apps that are both fun to use and functional. Right now
 
 ---
 
-## My Tech Skills
+## My Tech Stack
 
-### Programming & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,java,py,react,nextjs,nodejs,flask&perline=7)](https://skillicons.dev)
+### Languages
 
-### Frontend & Design
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,figma)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,java,py)](https://skillicons.dev)
 
-### Databases & Tools
-[![Backend Skills](https://skillicons.dev/icons?i=firebase,supabase,mysql,git,vercel,vite)](https://skillicons.dev)
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)](https://skillicons.dev)
+
+### Backend & APIs
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,graphql,firebase,supabase)](https://skillicons.dev)
+
+### Databases
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+### Cloud & DevOps
+
+[![Cloud](https://skillicons.dev/icons?i=aws,docker,git,vercel)](https://skillicons.dev)
+
+### Design & Tools
+
+[![Tools](https://skillicons.dev/icons?i=figma,vite)](https://skillicons.dev)
 
 ---
 
@@ -33,7 +48,6 @@ I like building cool web apps that are both fun to use and functional. Right now
 ## If You Wanna Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjumadhav-va)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/the_violetto)
 
 ### Get in Touch
 * **Email:** [manjumadhav.va@gmail.com](mailto:manjumadhav.va@gmail.com)
