@@ -1,14 +1,16 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Cat%20with%20Smiling%20Eyes.png" alt="Grinning Cat" width="40" height="40" /> Manju Madhav
 
-## Who am I?
+### Full-Stack Developer • Computer Science & Design Student
 
-Hello! I'm a student from Karnataka, India, studying **Computer Science and Design**.
+Hey 👋
 
-I like building cool web apps that are both fun to use and functional. Right now, I'm doing web development with technologies like **React, Next.js, Firebase, and PostgreSQL**.
+I'm Manju, a developer from Karnataka who enjoys building things that are both useful and fun to work on.
 
----
+Most of my time goes into building full-stack web applications with **TypeScript, Next.js, PostgreSQL**, and occasionally diving into weird problems involving real-time collaboration, databases, and AI.
 
-## My Tech Stack
+Currently working as a **Full-Stack Developer Intern @ RankBook**, where I'm helping build internal tools, analytics systems, and multi-tenant applications.
+
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -34,28 +36,57 @@ I like building cool web apps that are both fun to use and functional. Right now
 
 [![Tools](https://skillicons.dev/icons?i=figma,vite)](https://skillicons.dev)
 
----
+## 🚀 Things I've Built
 
-## My GitHub Stats
+### Syncova
 
-![Most Used Languages](https://github-readme-stats-ashen-one-20.vercel.app/api/top-langs?username=violetto-rose&show_icons=true&locale=en&layout=donut&theme=catppuccin_mocha&exclude_repo=machine-learning)
-![GitHub Stats](https://github-readme-stats-ashen-one-20.vercel.app/api?username=violetto-rose&show_icons=true&locale=en&theme=catppuccin_mocha)
+AI-powered project coordination platform.
 
-![GitHub Streak](https://github-readme-streak-stats-lime-psi.vercel.app?user=violetto-rose&theme=catppuccin_mocha&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=810)
+* Smart workload distribution using the Hungarian Algorithm
+* Multi-tenant architecture with PostgreSQL + RLS
+* Real-time task tracking and dependency management
 
----
+🔗 https://syncova.vercel.app
 
-## If You Wanna Connect With Me
+### GitDoxx
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manjumadhav-va)
+Real-time collaborative document platform.
 
-### Get in Touch
-* **Email:** [manjumadhav.va@gmail.com](mailto:manjumadhav.va@gmail.com)
-* **Portfolio:** [manjumadhav.vercel.app](https://manjumadhav.vercel.app)
-* **Resume:** [View PDF](https://github.com/violetto-rose/violetto-rose/blob/main/resources/Resume.pdf)
+* Y.js + WebRTC powered collaboration
+* Voice typing using Whisper
+* AI-assisted document comparison and summaries
 
----
+🔗 https://gitdoxx.vercel.app
 
-*I'm always open to collaboration opportunities and interesting projects. Feel free to reach out :P*
+## 💼 Experience
+
+### Full-Stack Developer Intern @ RankBook
+
+* Built and deployed an LMS Analytics Dashboard
+* Designed a shared multi-tenant PostgreSQL architecture
+* Worked on CRM and E-Library systems
+* Built production features used across multiple company products
+
+## 📊 GitHub Stats
+
+![Most Used Languages](https://github-readme-stats-ashen-one-20.vercel.app/api/top-langs?username=violetto-rose&show_icons=true&locale=en&layout=donut&theme=catppuccin_mocha&exclude_repo=machine-learning) ![GitHub Stats](https://github-readme-stats-ashen-one-20.vercel.app/api?username=violetto-rose&show_icons=true&locale=en&theme=catppuccin_mocha&&line_height=28) ![GitHub Streak](https://github-readme-streak-stats-lime-psi.vercel.app?user=violetto-rose&theme=catppuccin_mocha&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=820)
+
+## 🌱 Currently Exploring
+
+* Distributed Systems
+* Database Design & Query Optimization
+* Real-Time Collaboration Software
+* AI-Powered Developer Tools
+* System Design
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/manjumadhav-va)
+
+* 📧 Email: [manjumadhav.va@gmail.com](mailto:manjumadhav.va@gmail.com)
+* 🌐 Portfolio: https://manjumadhav.vercel.app
+* 📄 Resume: [View PDF](https://github.com/violetto-rose/violetto-rose/blob/main/resources/Resume.pdf)
+
+If you've got an interesting project, startup idea, or just want to talk tech, feel free to reach out :)
 
 [![Manju Madhav V A profile views](https://u8views.com/api/v1/github/profiles/128056505/views/day-week-month-total-count.svg)](https://u8views.com/github/violetto-rose)
