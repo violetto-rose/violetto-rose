@@ -12,51 +12,22 @@ Currently working as a **Full-Stack Developer Intern @ RankBook**, where I'm hel
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-[![Languages](https://skillicons.dev/icons?i=ts,js,java,py)](https://skillicons.dev)
-
-### Frontend
-
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)](https://skillicons.dev)
-
-### Backend & APIs
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,graphql,firebase,supabase)](https://skillicons.dev)
-
-### Databases
-
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
-
-### Cloud & DevOps
-
-[![Cloud](https://skillicons.dev/icons?i=aws,docker,git,vercel)](https://skillicons.dev)
-
-### Design & Tools
-
-[![Tools](https://skillicons.dev/icons?i=figma,vite)](https://skillicons.dev)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | [![Languages](https://skillicons.dev/icons?i=ts,js,java,py)](https://skillicons.dev) |
+| **Frontend** | [![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind)](https://skillicons.dev) |
+| **Backend & APIs** | [![Backend](https://skillicons.dev/icons?i=nodejs,graphql,firebase,supabase)](https://skillicons.dev) |
+| **Databases** | [![Databases](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev) |
+| **Cloud & DevOps** | [![Cloud](https://skillicons.dev/icons?i=aws,docker,git,vercel)](https://skillicons.dev) |
+| **Design & Tools** | [![Tools](https://skillicons.dev/icons?i=figma,vite)](https://skillicons.dev) |
 
 ## 🚀 Things I've Built
 
-### Syncova
+| Project | Description & Key Features | Link |
+| :--- | :--- | :--- |
+| **Syncova** | **AI-powered project coordination platform.**<br>• Smart workload distribution using the Hungarian Algorithm<br>• Multi-tenant architecture with PostgreSQL + RLS<br>• Real-time task tracking and dependency management | [🔗 Live Demo](https://syncova.vercel.app) |
+| **GitDoxx** | **Real-time collaborative document platform.**<br>• Y.js + WebRTC powered collaboration<br>• Voice typing using Whisper<br>• AI-assisted document comparison and summaries | [🔗 Live Demo](https://gitdoxx.vercel.app) |
 
-AI-powered project coordination platform.
-
-* Smart workload distribution using the Hungarian Algorithm
-* Multi-tenant architecture with PostgreSQL + RLS
-* Real-time task tracking and dependency management
-
-🔗 https://syncova.vercel.app
-
-### GitDoxx
-
-Real-time collaborative document platform.
-
-* Y.js + WebRTC powered collaboration
-* Voice typing using Whisper
-* AI-assisted document comparison and summaries
-
-🔗 https://gitdoxx.vercel.app
 
 ## 💼 Experience
 
